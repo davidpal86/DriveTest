@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975085406683",
+    "firebase_url": "https://drivetest-83544-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "drivetest-83544",
+    "storage_bucket": "drivetest-83544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975085406683:android:3f86169eec76b8ed7dbffe",
+        "android_client_info": {
+          "package_name": "es.ilerna.drivetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975085406683-94vfa2cni1eepfbstcjpep0t8hdrmlte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAapOTqFV3OPaDRC8zc6FPCR29fHyo0l9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975085406683-94vfa2cni1eepfbstcjpep0t8hdrmlte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

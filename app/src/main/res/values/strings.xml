@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DriveTest</string>
+    <string name="prefs_file">es.ilerna.cartest.PREFERENCE_FILE_KEY</string>
+    <string name="Recuperacion"><u>Introduce tu correo</u></string>
+    <string name="Zona_A"><u>Zona rápida: Test de 10  preguntas</u></string>
+    <string name="Zona_B"><u>Zona de examen: Test de 30 preguntas</u></string>
+    <string name="acerca1">Esta aplicacion ha sido desarrollada por David Gutiérrez Perrote como trabajo de fin de grado para el ciclo formativo de "Desarrollo de aplicaciones multiplataforma", cursado en ILERNA ONLINE</string>
+    <string name="acerca2">El objetivo es mantener actualizada contínuamente la base de datos de preguntas y respuestas a través de la página oficial de Tráfico con la información que ellos publican.</string>
+    <string name="acerca3">En caso de encontrar algún error, ya sea ortográfico, de respuestas incorrectas, o sobre la funcionalidad de la aplicación, se puede enviar a la siguiente dirección de correo electrónico:"</string>
+    <string name="ayuda1">- Para empezar a practicar solo tienes que pulsar en el botón "Comenzar test", una vez dentro podrás seleccionar varias opciones, hacer test rápidos, basados en 10 preguntas que la mayoría de la gente suele fallar según la base de datos de Tráfico, o bien, hacer test tipo exámen, siendo este modelo idéntico al exámen oficial. Compuesto por 30 preguntas, de las cuales para aprobar el exámen sólo podrás fallar un máximo de 3.</string>
+    <string name="ayuda2">- En cuanto te registras, e inicias sesión en la aplicación, entras en la competición por ser el usuario con más test aprobados. Es decir, cada test que hagas con un máximo de 3 fallos se considera aprobado y esto te sumará un punto en la clasificación.</string>
+    <string name="ayuda3">- Podrás ver la clasificación de todos los usuarios registrados en la aplicación, e intentar conseguir el primer puesto siendo el usuario que más test apruebe. Para visualizar ésta clasificación solo tienes que pinchar en el botón de "Estadísticas" en el menú principal. Ánimo y a por ello!!!</string>
+    <string name="ayuda4">- Para cualquier sugerencia o error encontrado en la aplicación puedes ir a la zona de "Acerca de" y encontrarás el contacto para enviar tus solicitudes</string>
+    <string name="volver">VOLVER</string>
+    <string name="gracias">Muchas gracias por vuestra colaboración</string>
+    <string name="mail">david2237@hotmail.com</string>
+    <string name="practica">Bienvenid@ a la zona de práctica, escoge el tipo de test que quieres hacer y empezemos!</string>
+    <string name="conectado">Usuario conectado:</string>
+    <string name="registrar">¿Aún no tienes cuenta? Haz click en el botón \"Registrar\" y completa el formulario</string>
+</resources>
